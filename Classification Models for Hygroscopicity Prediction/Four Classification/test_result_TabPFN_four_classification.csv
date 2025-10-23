@@ -1,0 +1,608 @@
+true_label,predicted_label,group
+no hygroscopic,no hygroscopic,14
+no hygroscopic,no hygroscopic,25
+no hygroscopic,no hygroscopic,37
+no hygroscopic,no hygroscopic,48
+slightly hygroscopic,slightly hygroscopic,56
+no hygroscopic,no hygroscopic,59
+no hygroscopic,no hygroscopic,66
+no hygroscopic,no hygroscopic,68
+slightly hygroscopic,hygroscopic,84
+no hygroscopic,no hygroscopic,92
+slightly hygroscopic,slightly hygroscopic,94
+slightly hygroscopic,slightly hygroscopic,99
+very hygroscopic,very hygroscopic,107
+no hygroscopic,no hygroscopic,123
+no hygroscopic,slightly hygroscopic,145
+slightly hygroscopic,slightly hygroscopic,151
+hygroscopic,hygroscopic,158
+very hygroscopic,very hygroscopic,162
+no hygroscopic,no hygroscopic,180
+hygroscopic,slightly hygroscopic,185
+no hygroscopic,no hygroscopic,208
+no hygroscopic,no hygroscopic,231
+no hygroscopic,no hygroscopic,242
+slightly hygroscopic,hygroscopic,249
+no hygroscopic,very hygroscopic,257
+slightly hygroscopic,slightly hygroscopic,258
+hygroscopic,no hygroscopic,269
+slightly hygroscopic,slightly hygroscopic,285
+no hygroscopic,no hygroscopic,297
+slightly hygroscopic,slightly hygroscopic,301
+hygroscopic,hygroscopic,306
+no hygroscopic,no hygroscopic,308
+slightly hygroscopic,no hygroscopic,311
+no hygroscopic,no hygroscopic,345
+no hygroscopic,no hygroscopic,347
+no hygroscopic,no hygroscopic,354
+no hygroscopic,no hygroscopic,361
+hygroscopic,slightly hygroscopic,422
+slightly hygroscopic,no hygroscopic,429
+no hygroscopic,slightly hygroscopic,433
+no hygroscopic,no hygroscopic,434
+very hygroscopic,very hygroscopic,436
+slightly hygroscopic,slightly hygroscopic,461
+no hygroscopic,no hygroscopic,471
+no hygroscopic,no hygroscopic,480
+no hygroscopic,no hygroscopic,495
+slightly hygroscopic,slightly hygroscopic,499
+hygroscopic,hygroscopic,501
+no hygroscopic,no hygroscopic,504
+slightly hygroscopic,slightly hygroscopic,506
+slightly hygroscopic,slightly hygroscopic,511
+no hygroscopic,no hygroscopic,516
+very hygroscopic,hygroscopic,521
+no hygroscopic,no hygroscopic,534
+hygroscopic,hygroscopic,548
+slightly hygroscopic,hygroscopic,564
+hygroscopic,hygroscopic,589
+slightly hygroscopic,slightly hygroscopic,610
+no hygroscopic,no hygroscopic,614
+no hygroscopic,no hygroscopic,620
+hygroscopic,slightly hygroscopic,623
+no hygroscopic,no hygroscopic,10
+no hygroscopic,no hygroscopic,27
+very hygroscopic,very hygroscopic,28
+slightly hygroscopic,no hygroscopic,29
+slightly hygroscopic,slightly hygroscopic,52
+slightly hygroscopic,no hygroscopic,62
+slightly hygroscopic,slightly hygroscopic,65
+no hygroscopic,no hygroscopic,69
+no hygroscopic,no hygroscopic,72
+no hygroscopic,no hygroscopic,76
+hygroscopic,hygroscopic,81
+hygroscopic,slightly hygroscopic,87
+slightly hygroscopic,slightly hygroscopic,91
+no hygroscopic,no hygroscopic,97
+slightly hygroscopic,hygroscopic,100
+no hygroscopic,no hygroscopic,102
+hygroscopic,hygroscopic,109
+hygroscopic,hygroscopic,128
+very hygroscopic,very hygroscopic,154
+hygroscopic,hygroscopic,155
+slightly hygroscopic,slightly hygroscopic,177
+no hygroscopic,no hygroscopic,206
+no hygroscopic,no hygroscopic,223
+no hygroscopic,no hygroscopic,228
+slightly hygroscopic,no hygroscopic,229
+no hygroscopic,no hygroscopic,243
+hygroscopic,slightly hygroscopic,253
+slightly hygroscopic,hygroscopic,264
+no hygroscopic,no hygroscopic,276
+no hygroscopic,no hygroscopic,280
+no hygroscopic,no hygroscopic,283
+slightly hygroscopic,slightly hygroscopic,291
+hygroscopic,slightly hygroscopic,294
+no hygroscopic,no hygroscopic,300
+slightly hygroscopic,no hygroscopic,330
+no hygroscopic,no hygroscopic,349
+no hygroscopic,no hygroscopic,350
+no hygroscopic,no hygroscopic,359
+slightly hygroscopic,slightly hygroscopic,365
+slightly hygroscopic,slightly hygroscopic,366
+no hygroscopic,no hygroscopic,372
+no hygroscopic,no hygroscopic,374
+hygroscopic,no hygroscopic,400
+no hygroscopic,no hygroscopic,402
+slightly hygroscopic,slightly hygroscopic,406
+no hygroscopic,no hygroscopic,418
+hygroscopic,hygroscopic,427
+no hygroscopic,no hygroscopic,483
+no hygroscopic,no hygroscopic,496
+no hygroscopic,no hygroscopic,500
+slightly hygroscopic,slightly hygroscopic,513
+no hygroscopic,no hygroscopic,526
+no hygroscopic,no hygroscopic,528
+very hygroscopic,no hygroscopic,531
+no hygroscopic,no hygroscopic,537
+slightly hygroscopic,slightly hygroscopic,552
+no hygroscopic,no hygroscopic,592
+very hygroscopic,very hygroscopic,595
+slightly hygroscopic,slightly hygroscopic,606
+no hygroscopic,no hygroscopic,616
+no hygroscopic,no hygroscopic,621
+no hygroscopic,no hygroscopic,15
+no hygroscopic,no hygroscopic,17
+no hygroscopic,no hygroscopic,21
+no hygroscopic,no hygroscopic,31
+no hygroscopic,no hygroscopic,41
+no hygroscopic,slightly hygroscopic,67
+no hygroscopic,no hygroscopic,71
+no hygroscopic,no hygroscopic,83
+no hygroscopic,no hygroscopic,85
+no hygroscopic,no hygroscopic,88
+no hygroscopic,slightly hygroscopic,110
+no hygroscopic,no hygroscopic,116
+no hygroscopic,no hygroscopic,118
+hygroscopic,slightly hygroscopic,122
+no hygroscopic,no hygroscopic,134
+no hygroscopic,no hygroscopic,150
+slightly hygroscopic,no hygroscopic,159
+slightly hygroscopic,slightly hygroscopic,160
+no hygroscopic,no hygroscopic,175
+hygroscopic,hygroscopic,188
+no hygroscopic,no hygroscopic,191
+no hygroscopic,no hygroscopic,196
+no hygroscopic,slightly hygroscopic,198
+slightly hygroscopic,slightly hygroscopic,204
+very hygroscopic,slightly hygroscopic,207
+hygroscopic,hygroscopic,212
+no hygroscopic,no hygroscopic,221
+no hygroscopic,no hygroscopic,247
+hygroscopic,hygroscopic,265
+slightly hygroscopic,no hygroscopic,281
+no hygroscopic,no hygroscopic,310
+no hygroscopic,no hygroscopic,321
+slightly hygroscopic,slightly hygroscopic,327
+slightly hygroscopic,slightly hygroscopic,331
+hygroscopic,hygroscopic,334
+very hygroscopic,hygroscopic,335
+no hygroscopic,slightly hygroscopic,336
+no hygroscopic,no hygroscopic,339
+no hygroscopic,slightly hygroscopic,346
+hygroscopic,slightly hygroscopic,355
+slightly hygroscopic,slightly hygroscopic,371
+hygroscopic,hygroscopic,386
+slightly hygroscopic,slightly hygroscopic,393
+no hygroscopic,no hygroscopic,395
+no hygroscopic,no hygroscopic,440
+slightly hygroscopic,no hygroscopic,445
+slightly hygroscopic,slightly hygroscopic,448
+slightly hygroscopic,slightly hygroscopic,456
+slightly hygroscopic,slightly hygroscopic,458
+slightly hygroscopic,no hygroscopic,463
+no hygroscopic,no hygroscopic,469
+hygroscopic,no hygroscopic,481
+slightly hygroscopic,no hygroscopic,517
+very hygroscopic,hygroscopic,519
+no hygroscopic,no hygroscopic,545
+slightly hygroscopic,no hygroscopic,550
+slightly hygroscopic,slightly hygroscopic,562
+hygroscopic,slightly hygroscopic,580
+no hygroscopic,no hygroscopic,583
+very hygroscopic,hygroscopic,596
+hygroscopic,slightly hygroscopic,622
+hygroscopic,no hygroscopic,2
+no hygroscopic,no hygroscopic,3
+hygroscopic,hygroscopic,5
+no hygroscopic,no hygroscopic,8
+slightly hygroscopic,hygroscopic,22
+no hygroscopic,no hygroscopic,34
+slightly hygroscopic,hygroscopic,42
+no hygroscopic,no hygroscopic,73
+slightly hygroscopic,slightly hygroscopic,105
+no hygroscopic,no hygroscopic,112
+no hygroscopic,no hygroscopic,114
+hygroscopic,no hygroscopic,115
+no hygroscopic,no hygroscopic,125
+slightly hygroscopic,slightly hygroscopic,133
+no hygroscopic,no hygroscopic,135
+no hygroscopic,no hygroscopic,164
+hygroscopic,no hygroscopic,189
+hygroscopic,hygroscopic,219
+no hygroscopic,no hygroscopic,224
+no hygroscopic,no hygroscopic,226
+no hygroscopic,no hygroscopic,232
+very hygroscopic,hygroscopic,245
+slightly hygroscopic,slightly hygroscopic,254
+no hygroscopic,no hygroscopic,266
+no hygroscopic,no hygroscopic,284
+no hygroscopic,no hygroscopic,289
+no hygroscopic,no hygroscopic,292
+no hygroscopic,no hygroscopic,298
+no hygroscopic,slightly hygroscopic,304
+no hygroscopic,no hygroscopic,320
+slightly hygroscopic,hygroscopic,324
+no hygroscopic,no hygroscopic,337
+no hygroscopic,no hygroscopic,341
+very hygroscopic,hygroscopic,352
+hygroscopic,hygroscopic,364
+slightly hygroscopic,no hygroscopic,401
+no hygroscopic,no hygroscopic,403
+slightly hygroscopic,slightly hygroscopic,415
+slightly hygroscopic,slightly hygroscopic,426
+no hygroscopic,no hygroscopic,459
+hygroscopic,hygroscopic,464
+no hygroscopic,no hygroscopic,477
+no hygroscopic,no hygroscopic,482
+hygroscopic,no hygroscopic,492
+slightly hygroscopic,slightly hygroscopic,507
+no hygroscopic,slightly hygroscopic,514
+slightly hygroscopic,slightly hygroscopic,532
+slightly hygroscopic,hygroscopic,536
+slightly hygroscopic,slightly hygroscopic,539
+slightly hygroscopic,no hygroscopic,549
+slightly hygroscopic,hygroscopic,554
+very hygroscopic,very hygroscopic,565
+slightly hygroscopic,no hygroscopic,566
+very hygroscopic,very hygroscopic,579
+no hygroscopic,no hygroscopic,581
+no hygroscopic,no hygroscopic,582
+no hygroscopic,no hygroscopic,586
+no hygroscopic,no hygroscopic,590
+hygroscopic,slightly hygroscopic,603
+no hygroscopic,no hygroscopic,604
+no hygroscopic,no hygroscopic,625
+no hygroscopic,slightly hygroscopic,36
+very hygroscopic,hygroscopic,54
+slightly hygroscopic,hygroscopic,58
+hygroscopic,hygroscopic,61
+no hygroscopic,no hygroscopic,64
+slightly hygroscopic,slightly hygroscopic,89
+slightly hygroscopic,slightly hygroscopic,131
+no hygroscopic,slightly hygroscopic,137
+no hygroscopic,no hygroscopic,138
+hygroscopic,hygroscopic,141
+no hygroscopic,no hygroscopic,143
+no hygroscopic,no hygroscopic,144
+no hygroscopic,no hygroscopic,146
+no hygroscopic,no hygroscopic,166
+slightly hygroscopic,slightly hygroscopic,167
+no hygroscopic,no hygroscopic,172
+no hygroscopic,no hygroscopic,186
+hygroscopic,hygroscopic,194
+no hygroscopic,no hygroscopic,197
+very hygroscopic,very hygroscopic,210
+slightly hygroscopic,slightly hygroscopic,213
+no hygroscopic,no hygroscopic,214
+no hygroscopic,no hygroscopic,216
+no hygroscopic,no hygroscopic,225
+hygroscopic,hygroscopic,227
+no hygroscopic,no hygroscopic,234
+slightly hygroscopic,slightly hygroscopic,235
+hygroscopic,hygroscopic,240
+no hygroscopic,no hygroscopic,261
+hygroscopic,hygroscopic,267
+slightly hygroscopic,slightly hygroscopic,272
+slightly hygroscopic,no hygroscopic,296
+hygroscopic,hygroscopic,312
+no hygroscopic,slightly hygroscopic,319
+no hygroscopic,no hygroscopic,340
+no hygroscopic,no hygroscopic,342
+slightly hygroscopic,slightly hygroscopic,370
+no hygroscopic,no hygroscopic,375
+no hygroscopic,no hygroscopic,381
+no hygroscopic,slightly hygroscopic,385
+no hygroscopic,no hygroscopic,388
+no hygroscopic,no hygroscopic,392
+slightly hygroscopic,slightly hygroscopic,405
+hygroscopic,hygroscopic,423
+slightly hygroscopic,slightly hygroscopic,452
+slightly hygroscopic,slightly hygroscopic,455
+slightly hygroscopic,slightly hygroscopic,465
+very hygroscopic,very hygroscopic,488
+slightly hygroscopic,slightly hygroscopic,518
+no hygroscopic,no hygroscopic,540
+no hygroscopic,no hygroscopic,543
+no hygroscopic,no hygroscopic,561
+very hygroscopic,hygroscopic,569
+slightly hygroscopic,very hygroscopic,587
+no hygroscopic,slightly hygroscopic,598
+no hygroscopic,no hygroscopic,599
+no hygroscopic,no hygroscopic,602
+slightly hygroscopic,no hygroscopic,607
+hygroscopic,slightly hygroscopic,611
+no hygroscopic,no hygroscopic,617
+no hygroscopic,no hygroscopic,626
+no hygroscopic,no hygroscopic,16
+no hygroscopic,no hygroscopic,19
+no hygroscopic,no hygroscopic,20
+slightly hygroscopic,slightly hygroscopic,23
+hygroscopic,hygroscopic,24
+no hygroscopic,no hygroscopic,32
+no hygroscopic,no hygroscopic,35
+no hygroscopic,no hygroscopic,53
+slightly hygroscopic,slightly hygroscopic,55
+no hygroscopic,no hygroscopic,57
+no hygroscopic,no hygroscopic,74
+no hygroscopic,no hygroscopic,77
+no hygroscopic,no hygroscopic,93
+no hygroscopic,no hygroscopic,96
+no hygroscopic,no hygroscopic,101
+slightly hygroscopic,slightly hygroscopic,104
+no hygroscopic,no hygroscopic,126
+very hygroscopic,very hygroscopic,156
+no hygroscopic,slightly hygroscopic,169
+slightly hygroscopic,no hygroscopic,173
+hygroscopic,very hygroscopic,176
+no hygroscopic,no hygroscopic,184
+slightly hygroscopic,slightly hygroscopic,199
+slightly hygroscopic,hygroscopic,200
+no hygroscopic,no hygroscopic,252
+hygroscopic,no hygroscopic,255
+slightly hygroscopic,slightly hygroscopic,256
+no hygroscopic,no hygroscopic,259
+very hygroscopic,very hygroscopic,268
+hygroscopic,slightly hygroscopic,278
+slightly hygroscopic,no hygroscopic,307
+no hygroscopic,no hygroscopic,315
+no hygroscopic,no hygroscopic,317
+slightly hygroscopic,hygroscopic,328
+hygroscopic,slightly hygroscopic,332
+no hygroscopic,slightly hygroscopic,348
+no hygroscopic,no hygroscopic,363
+slightly hygroscopic,no hygroscopic,377
+no hygroscopic,no hygroscopic,397
+hygroscopic,slightly hygroscopic,399
+no hygroscopic,no hygroscopic,407
+very hygroscopic,very hygroscopic,416
+hygroscopic,very hygroscopic,442
+no hygroscopic,no hygroscopic,454
+hygroscopic,hygroscopic,460
+no hygroscopic,no hygroscopic,462
+slightly hygroscopic,slightly hygroscopic,476
+slightly hygroscopic,slightly hygroscopic,478
+slightly hygroscopic,no hygroscopic,486
+hygroscopic,slightly hygroscopic,489
+no hygroscopic,no hygroscopic,494
+no hygroscopic,no hygroscopic,530
+no hygroscopic,no hygroscopic,535
+slightly hygroscopic,slightly hygroscopic,551
+no hygroscopic,no hygroscopic,553
+no hygroscopic,no hygroscopic,558
+very hygroscopic,no hygroscopic,560
+slightly hygroscopic,slightly hygroscopic,585
+no hygroscopic,slightly hygroscopic,588
+slightly hygroscopic,slightly hygroscopic,612
+no hygroscopic,no hygroscopic,615
+slightly hygroscopic,no hygroscopic,9
+hygroscopic,hygroscopic,12
+no hygroscopic,hygroscopic,13
+very hygroscopic,slightly hygroscopic,26
+slightly hygroscopic,slightly hygroscopic,33
+no hygroscopic,no hygroscopic,40
+hygroscopic,hygroscopic,43
+slightly hygroscopic,slightly hygroscopic,47
+no hygroscopic,no hygroscopic,63
+slightly hygroscopic,no hygroscopic,75
+slightly hygroscopic,slightly hygroscopic,78
+no hygroscopic,no hygroscopic,98
+no hygroscopic,no hygroscopic,108
+no hygroscopic,no hygroscopic,111
+no hygroscopic,no hygroscopic,120
+slightly hygroscopic,slightly hygroscopic,121
+no hygroscopic,no hygroscopic,136
+no hygroscopic,no hygroscopic,149
+no hygroscopic,no hygroscopic,163
+no hygroscopic,slightly hygroscopic,171
+no hygroscopic,no hygroscopic,181
+no hygroscopic,no hygroscopic,187
+hygroscopic,no hygroscopic,215
+no hygroscopic,no hygroscopic,217
+no hygroscopic,no hygroscopic,218
+no hygroscopic,no hygroscopic,238
+no hygroscopic,no hygroscopic,241
+no hygroscopic,no hygroscopic,273
+no hygroscopic,no hygroscopic,282
+slightly hygroscopic,no hygroscopic,295
+no hygroscopic,no hygroscopic,299
+no hygroscopic,no hygroscopic,313
+slightly hygroscopic,no hygroscopic,323
+no hygroscopic,no hygroscopic,325
+no hygroscopic,no hygroscopic,329
+hygroscopic,hygroscopic,369
+slightly hygroscopic,slightly hygroscopic,408
+hygroscopic,hygroscopic,413
+hygroscopic,hygroscopic,420
+very hygroscopic,hygroscopic,424
+hygroscopic,slightly hygroscopic,438
+no hygroscopic,slightly hygroscopic,444
+no hygroscopic,no hygroscopic,447
+no hygroscopic,no hygroscopic,450
+hygroscopic,slightly hygroscopic,470
+slightly hygroscopic,slightly hygroscopic,474
+no hygroscopic,no hygroscopic,490
+no hygroscopic,no hygroscopic,493
+no hygroscopic,no hygroscopic,498
+slightly hygroscopic,no hygroscopic,503
+very hygroscopic,slightly hygroscopic,510
+slightly hygroscopic,slightly hygroscopic,538
+no hygroscopic,no hygroscopic,541
+no hygroscopic,no hygroscopic,559
+slightly hygroscopic,slightly hygroscopic,572
+slightly hygroscopic,slightly hygroscopic,573
+very hygroscopic,hygroscopic,584
+hygroscopic,no hygroscopic,594
+no hygroscopic,no hygroscopic,600
+slightly hygroscopic,hygroscopic,609
+slightly hygroscopic,slightly hygroscopic,624
+no hygroscopic,no hygroscopic,11
+no hygroscopic,no hygroscopic,38
+no hygroscopic,no hygroscopic,44
+no hygroscopic,no hygroscopic,45
+very hygroscopic,no hygroscopic,46
+no hygroscopic,no hygroscopic,80
+no hygroscopic,no hygroscopic,82
+no hygroscopic,no hygroscopic,90
+no hygroscopic,no hygroscopic,95
+no hygroscopic,no hygroscopic,129
+no hygroscopic,no hygroscopic,140
+slightly hygroscopic,slightly hygroscopic,152
+no hygroscopic,slightly hygroscopic,153
+no hygroscopic,no hygroscopic,193
+very hygroscopic,hygroscopic,211
+no hygroscopic,no hygroscopic,233
+slightly hygroscopic,no hygroscopic,248
+no hygroscopic,no hygroscopic,270
+no hygroscopic,no hygroscopic,271
+hygroscopic,slightly hygroscopic,274
+slightly hygroscopic,slightly hygroscopic,279
+no hygroscopic,no hygroscopic,286
+no hygroscopic,no hygroscopic,290
+slightly hygroscopic,slightly hygroscopic,293
+no hygroscopic,no hygroscopic,305
+slightly hygroscopic,slightly hygroscopic,309
+slightly hygroscopic,slightly hygroscopic,316
+hygroscopic,hygroscopic,338
+no hygroscopic,no hygroscopic,360
+slightly hygroscopic,slightly hygroscopic,367
+hygroscopic,slightly hygroscopic,368
+no hygroscopic,no hygroscopic,376
+no hygroscopic,no hygroscopic,378
+slightly hygroscopic,no hygroscopic,394
+hygroscopic,hygroscopic,396
+hygroscopic,hygroscopic,398
+no hygroscopic,no hygroscopic,404
+slightly hygroscopic,slightly hygroscopic,409
+no hygroscopic,no hygroscopic,411
+slightly hygroscopic,slightly hygroscopic,412
+slightly hygroscopic,no hygroscopic,430
+no hygroscopic,no hygroscopic,432
+slightly hygroscopic,slightly hygroscopic,435
+hygroscopic,hygroscopic,437
+hygroscopic,very hygroscopic,449
+no hygroscopic,no hygroscopic,453
+no hygroscopic,slightly hygroscopic,457
+slightly hygroscopic,no hygroscopic,467
+no hygroscopic,no hygroscopic,468
+no hygroscopic,no hygroscopic,515
+no hygroscopic,no hygroscopic,527
+hygroscopic,hygroscopic,529
+no hygroscopic,no hygroscopic,533
+hygroscopic,no hygroscopic,542
+slightly hygroscopic,no hygroscopic,557
+slightly hygroscopic,no hygroscopic,575
+no hygroscopic,no hygroscopic,576
+very hygroscopic,no hygroscopic,578
+slightly hygroscopic,slightly hygroscopic,597
+no hygroscopic,no hygroscopic,608
+no hygroscopic,no hygroscopic,4
+no hygroscopic,no hygroscopic,6
+slightly hygroscopic,hygroscopic,18
+no hygroscopic,slightly hygroscopic,30
+slightly hygroscopic,slightly hygroscopic,51
+no hygroscopic,no hygroscopic,60
+slightly hygroscopic,slightly hygroscopic,70
+no hygroscopic,no hygroscopic,86
+no hygroscopic,no hygroscopic,106
+slightly hygroscopic,no hygroscopic,117
+no hygroscopic,no hygroscopic,119
+slightly hygroscopic,slightly hygroscopic,124
+no hygroscopic,no hygroscopic,130
+no hygroscopic,no hygroscopic,132
+no hygroscopic,no hygroscopic,147
+no hygroscopic,slightly hygroscopic,170
+slightly hygroscopic,no hygroscopic,178
+no hygroscopic,no hygroscopic,182
+no hygroscopic,no hygroscopic,183
+hygroscopic,slightly hygroscopic,190
+no hygroscopic,hygroscopic,192
+no hygroscopic,no hygroscopic,195
+slightly hygroscopic,slightly hygroscopic,201
+very hygroscopic,no hygroscopic,220
+slightly hygroscopic,slightly hygroscopic,230
+very hygroscopic,hygroscopic,236
+hygroscopic,no hygroscopic,239
+no hygroscopic,slightly hygroscopic,262
+no hygroscopic,no hygroscopic,275
+slightly hygroscopic,slightly hygroscopic,277
+slightly hygroscopic,slightly hygroscopic,288
+no hygroscopic,no hygroscopic,302
+no hygroscopic,no hygroscopic,314
+no hygroscopic,no hygroscopic,326
+no hygroscopic,no hygroscopic,333
+no hygroscopic,no hygroscopic,351
+hygroscopic,hygroscopic,362
+no hygroscopic,no hygroscopic,373
+no hygroscopic,slightly hygroscopic,379
+slightly hygroscopic,slightly hygroscopic,380
+very hygroscopic,very hygroscopic,384
+slightly hygroscopic,no hygroscopic,390
+hygroscopic,slightly hygroscopic,414
+hygroscopic,slightly hygroscopic,421
+no hygroscopic,no hygroscopic,439
+no hygroscopic,no hygroscopic,443
+no hygroscopic,slightly hygroscopic,466
+very hygroscopic,hygroscopic,475
+no hygroscopic,no hygroscopic,491
+hygroscopic,slightly hygroscopic,497
+slightly hygroscopic,slightly hygroscopic,509
+hygroscopic,hygroscopic,520
+no hygroscopic,no hygroscopic,522
+slightly hygroscopic,slightly hygroscopic,523
+slightly hygroscopic,no hygroscopic,524
+no hygroscopic,no hygroscopic,544
+hygroscopic,slightly hygroscopic,570
+slightly hygroscopic,no hygroscopic,571
+hygroscopic,no hygroscopic,593
+no hygroscopic,no hygroscopic,618
+slightly hygroscopic,slightly hygroscopic,1
+no hygroscopic,no hygroscopic,49
+no hygroscopic,no hygroscopic,50
+no hygroscopic,no hygroscopic,79
+slightly hygroscopic,no hygroscopic,103
+no hygroscopic,no hygroscopic,127
+very hygroscopic,hygroscopic,139
+slightly hygroscopic,slightly hygroscopic,148
+very hygroscopic,no hygroscopic,157
+no hygroscopic,no hygroscopic,161
+no hygroscopic,no hygroscopic,165
+no hygroscopic,no hygroscopic,168
+hygroscopic,hygroscopic,179
+no hygroscopic,no hygroscopic,203
+no hygroscopic,no hygroscopic,246
+no hygroscopic,no hygroscopic,250
+hygroscopic,hygroscopic,251
+no hygroscopic,no hygroscopic,260
+very hygroscopic,slightly hygroscopic,263
+no hygroscopic,no hygroscopic,318
+hygroscopic,hygroscopic,322
+slightly hygroscopic,slightly hygroscopic,343
+no hygroscopic,slightly hygroscopic,344
+no hygroscopic,slightly hygroscopic,353
+no hygroscopic,no hygroscopic,356
+no hygroscopic,no hygroscopic,357
+very hygroscopic,hygroscopic,382
+hygroscopic,hygroscopic,387
+slightly hygroscopic,slightly hygroscopic,389
+no hygroscopic,no hygroscopic,391
+no hygroscopic,no hygroscopic,410
+slightly hygroscopic,slightly hygroscopic,417
+slightly hygroscopic,no hygroscopic,419
+slightly hygroscopic,slightly hygroscopic,425
+no hygroscopic,no hygroscopic,428
+slightly hygroscopic,slightly hygroscopic,441
+no hygroscopic,no hygroscopic,446
+no hygroscopic,no hygroscopic,451
+no hygroscopic,no hygroscopic,472
+no hygroscopic,no hygroscopic,473
+no hygroscopic,no hygroscopic,479
+slightly hygroscopic,slightly hygroscopic,484
+slightly hygroscopic,slightly hygroscopic,485
+hygroscopic,hygroscopic,487
+no hygroscopic,slightly hygroscopic,505
+slightly hygroscopic,no hygroscopic,525
+slightly hygroscopic,slightly hygroscopic,546
+no hygroscopic,no hygroscopic,547
+no hygroscopic,no hygroscopic,555
+slightly hygroscopic,no hygroscopic,556
+slightly hygroscopic,no hygroscopic,563
+no hygroscopic,no hygroscopic,567
+no hygroscopic,no hygroscopic,568
+hygroscopic,hygroscopic,574
+no hygroscopic,no hygroscopic,577
+hygroscopic,slightly hygroscopic,591
+slightly hygroscopic,slightly hygroscopic,601
+hygroscopic,hygroscopic,605
+hygroscopic,hygroscopic,613
+no hygroscopic,no hygroscopic,619
